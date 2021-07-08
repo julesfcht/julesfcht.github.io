@@ -12,7 +12,7 @@ const greeting = {
   username: "Jules Fichot",
   title: "Salut, C'est Jules",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "Passionné d'informatique depuis toujours, j'ai pu réaliser de nombreux projets grâce à mes années d'apprentissage depuis mon BTS. Après ces expériences techniques, je me dirige aujourd'hui vers de la gestion de projet car c'est l'aspect humain qui m'intéresse le plus dans ce domaine."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1bTnprRIc2rA4OOSFijNrobwTTSS2MyHp/view?usp=sharing",
@@ -336,7 +336,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Me contacter ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+92-3243454077",
@@ -363,7 +363,7 @@ export {
   achievementSection,
   blogSection,
   talkSection,
-  podcastSection,
+  //podcastSection,
   contactInfo,
-  twitterDetails
+  //twitterDetails
 };
