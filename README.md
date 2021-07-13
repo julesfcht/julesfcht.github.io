@@ -30,16 +30,16 @@ Created something awesome for your fork of the portfolio and want to share it? F
 
 ## Portfolio Sections
 ✔️ Summary and About me\
-✔️ Skills\
-✔️ Education\
-✔️ Work Experience\
+✔️ Compétences\
+✔️ Formation\
+✔️ Expérience\
 ✔️ Open Source Projects Connected with Github\
 ✔️ Big Projects\
 ✔️ Achievements And Certifications 🏆\
 ✔️ Blogs\
 ✔️ Talks\
 ✔️ Podcast\
-✔️ Contact me\
+✔️ Me Contacter\
 ✔️ Twitter Timeline\
 ✔️ Github Profile
 
